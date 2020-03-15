@@ -2,6 +2,7 @@ dash
 flask_caching
 pandas
 plotly
+psycopg2
 redis==3.4.1
 gunicorn
 SQLAlchemy
