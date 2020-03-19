@@ -6,3 +6,4 @@ _db_uri = os.environ['db_uri']
 
 DB_CONNECTION = f"postgresql+psycopg2://{_db_user}:{_db_password}@{_db_uri}"
 DATE_FORMAT = "%Y-%m-%d"
+MILLISECONDS_BETWEEN_UPDATES = 3.6E6
