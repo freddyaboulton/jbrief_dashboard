@@ -4,6 +4,6 @@ flask_caching
 pandas==0.25.3
 plotly
 psycopg2
-redis==3.4.1
+redis==4.4.4
 gunicorn
 SQLAlchemy
